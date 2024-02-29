@@ -65,8 +65,8 @@ Aşağıdakileri yap:
  3. Hesaplanan köpeğin yaşını dönün.
  */
 
-function kopeginYasi(/*buraya kodunu yazabilirsin*/) {
-  /*buraya kodunu yazabilirsin*/
+function kopeginYasi(sayi1,sayi2) {
+  return sayi1 * sayi2 ;
 }
 
 /* Görev 3 */
